@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A Machine Learning enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **computer vision**
+- 🔭 I’m currently working on **Time Series Forecasting**
 
 - 🌱 I’m currently learning about **neural networks**
 
